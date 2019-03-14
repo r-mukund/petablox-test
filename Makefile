@@ -1,2 +1,2 @@
 default: t.c
-	gcc t.c
+	${CC} t.c
